@@ -1,1 +1,1 @@
-t a test repo to play with bower
+Test repo to play with bower
