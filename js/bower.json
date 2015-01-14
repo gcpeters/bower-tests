@@ -6,7 +6,7 @@
     "= <grant@learnvest.com>"
   ],
   "description": "Testing out bower",
-  "main": "js/main.js",
+  "main": "main.js",
   "keywords": [
     "test"
   ],
